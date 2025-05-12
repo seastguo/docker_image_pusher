@@ -9,3 +9,4 @@ wbsu2003/lx-music-sync-server
 fogforest/yesplaymusic
 mtphotos/mt-photos-ai
 ddsderek/xiaoyakeeper
+foamzou/melody
